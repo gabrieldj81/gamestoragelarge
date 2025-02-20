@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+ARSONATE[[:space:]]-[[:space:]]WEBGL_DEMO[[:space:]]-[[:space:]]20240906[[:space:]]-[[:space:]]RELEASE[[:space:]]-[[:space:]]DCMP-FALLBCK.data.unityweb filter=lfs diff=lfs merge=lfs -text
+game.unx filter=lfs diff=lfs merge=lfs -text
+index.pck filter=lfs diff=lfs merge=lfs -text
+BatteriesNotIncludedHTML.data.unityweb filter=lfs diff=lfs merge=lfs -text
+WebGLBottle.data filter=lfs diff=lfs merge=lfs -text
+killbaby.data filter=lfs diff=lfs merge=lfs -text
+xsfgtj.rsdk filter=lfs diff=lfs merge=lfs -text
+raptor.data filter=lfs diff=lfs merge=lfs -text
+Little[[:space:]]Runmo[[:space:]]-[[:space:]]The[[:space:]]Game.pck filter=lfs diff=lfs merge=lfs -text
